@@ -1,4 +1,4 @@
 The course doesn't have an official literature, but here is a list of recommended reading!
-
+------------- | -------------
 <img src="http://image.bokus.com/images2/9781593275846_small_eloquent-javascript"/>  | [Eloquent JavaScript](http://www.amazon.co.uk/Eloquent-JavaScript-Modern-Introduction-Programming/dp/1593275846/) by Marijn Haverbeke. This is an excellent primer if you haven't worked much with JavaScript before. Make sure to get the 2nd edition, the one from 2014.  
 <img src="http://image.bokus.com/images2/9781449360726_small_functional-javascript"/>  | [Functional JavaScript](http://www.amazon.co.uk/Functional-JavaScript-Introducing-Programming-Underscore-js/dp/1449360726/) by Michael Fogus. For those who want to take their JS-fu to the next level! The patterns here are especially well suited for playing with Redux, which we'll do quite a lot of in this course.
