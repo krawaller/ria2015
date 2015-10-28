@@ -1,3 +1,5 @@
+<img class="toprightimg" src="http://pex2.com/stuff/nodejs_icon.png"/>
+
 WIP
 
 NODE!
