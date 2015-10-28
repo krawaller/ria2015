@@ -1,3 +1,5 @@
+<img class="toprightimg" src="https://cdn.auth0.com/blog/react-js/react.png"/>
+
 WIP 
 
 [React](http://facebook.github.io/react/) <3
