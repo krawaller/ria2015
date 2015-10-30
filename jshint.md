@@ -62,7 +62,10 @@ And even if you don't "officially" use JSHint you are **strongly** recommended t
 
 This is entirely up to you! However, we'd like to make two recommendations:
 
-*    The `newcap` setting should be `false`, or JSHint might choke on the JSX-compiled code.
+*    The `newcap` setting (which makes you have to use `new` when invoking a function starting with a capital letter) should be `false`, or JSHint might choke on the JSX-compiled code.
 *    It is a very good idea to use the complexity dampening settings `maxparams`, `maxdepth`, `maxstatements` and `maxcomplexity`! You can read up on them [here](http://www.elijahmanor.com/control-the-complexity-of-your-javascript-functions-with-jshint/).
 
 
+###Other options
+
+There are other linting solutions out there. The most viable alternatives are perhaps [ESLint](http://eslint.org/) and the original [JSLint](http://www.jslint.com/).
