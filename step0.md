@@ -1,6 +1,7 @@
 WIP
 
 *    Join the [slack channel](../slack-channel) and say hello!
+*    Read the [course introduction](../introduction) (and snoop around a bit on the rest of the course web)
 *    If you feel the need, strengthen your [JavaScript](../javascript) fu!
 *    Install [Node and NPM](../node-and-npm) if you haven't got them
 *    Install [Git](git-and-github) and register on [Github](git-and-github) if you haven't already
