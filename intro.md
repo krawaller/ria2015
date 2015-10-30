@@ -12,3 +12,5 @@ Also you are encouraged to help your fellow students with their projects. As all
 Throughout the course you will chronicle your journey in a **blog**. The level of detail is up to you, but much like with the helping of others, a thoughtful blog post will be worth as much or more as code.
 
 Under the heading **course blocks** in the menu to the left you'll find step by step details on what you're supposed to do. The **resources** heading holds various helpful links to different subjects relevant to the content of the course steps. 
+
+To get started, go to the inaugural [Step 0](../step0)!
