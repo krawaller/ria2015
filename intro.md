@@ -13,4 +13,4 @@ Throughout the course you will chronicle your journey in a **blog**. The level o
 
 Under the heading **course blocks** in the menu to the left you'll find step by step details on what you're supposed to do. The **resources** heading holds various helpful links to different subjects relevant to the content of the course steps. 
 
-To get started, go to the inaugural [Step 0](../step0)!
+To get started, go to the inaugural [Step 0](../step-0)!
