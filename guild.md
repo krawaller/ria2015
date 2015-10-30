@@ -1,8 +1,8 @@
 ###Purpose of the Guild
 
-The guild is a list of all course participants, with links to their projects, blog posts and pull requests. This is to allow us to more easily snoop on what the others are up to!
+The [guild](http://blog.krawaller.se/riaguild2015) is a list of all course participants, with links to their projects, blog posts and pull requests. This is to allow us to more easily snoop on what the others are up to!
 
-There is no communication channel on the guild; that is taken care of through the [course Slack channel](../slack). The guild is **only** static content.
+There is no communication channel on the guild; that is taken care of through the [course Slack channel](../slack). The guild is **only** for static content.
 
 ###Joining the guild
 
