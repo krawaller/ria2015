@@ -8,6 +8,8 @@ There is no communication channel on the guild; that is taken care of through th
 
 To enter your data into the guild you must go to the [git repo](https://github.com/krawaller/riaguild2015) and **fork** it. In your fork you must add a JSON file describing yourself into the `src/data/users` folder. Please use your **github** username as ID. For example, my github name is `krawaller`, so my file is at `src/data/users/krawaller.json`.
 
+Your `presentation` can contain markdown formatting for links and the like.
+
 Here is what my file looks like:
 
 ```javascript
