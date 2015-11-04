@@ -4,3 +4,5 @@ As you are progressing through the course you will be detailing your adventures 
 *    for each entry create a markdown file in this folder (entry01.md, entry02.md, etc)
 *    when [adding a link to your blog on the guild](../about-the-guild), navigate to the file on Github and simply copy the url. Then when someone visits that link, Github will take care of the markdown parsing. For example you can read this very page by navigating to [https://github.com/krawaller/ria2015/blob/master/blog.md](https://github.com/krawaller/ria2015/blob/master/blog.md).
 *    if you want to make a comment on someone's blog page; simply make a pull request where you add it to the bottom of the page!
+
+If you don't have/want a local markdown editor you can use [Dillinger.io](http://dillinger.io/) (thank you [Ulrika](http://blog.krawaller.se/riaguild2015/#/member/uf222ba)!).

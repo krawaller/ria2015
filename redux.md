@@ -28,3 +28,5 @@ An excellent first step is to watch the speech at React Europe where Redux's cre
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xsSnOQynTHs" frameborder="0" allowfullscreen></iframe>
 
 Also check out this brilliant [explanation of Redux in comic format](https://code-cartoons.com/a-cartoon-intro-to-redux-3afb775501a6). No code, just focusing on the high-level stuff.
+
+[Andreas Fridlund](http://blog.krawaller.se/riaguild2015/#/member/afrxx09) (thank you!) pointed me to [this excellent tutorial](https://github.com/happypoulp/redux-tutorial) which step by step walks through the various Redux concepts. Warmly recommended!
