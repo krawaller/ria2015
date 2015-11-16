@@ -12,6 +12,8 @@ There is an excellent [getting started section](https://facebook.github.io/react
 
 To get started yourself we recommend the [course demo app](../demo-app). 
 
+Note that there might also be some React stuff in the snippets list on the [JavaScript resource page](../javascript)
+
 ###Using React in the course
 
 As already said your main course project will be built using React, along with [Redux](../redux) for data handling and [React Router](../react-router) for routing.
