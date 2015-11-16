@@ -1,6 +1,3 @@
-Still WIP!
-
-
 ###Getting started
 
 Half of the course is made up by a project, where you will create and iterate on a web app. This app serves as a playground and source of discussion aiming to better your understanding of how to organise a JS RIA.

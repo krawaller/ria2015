@@ -1,7 +1,7 @@
 <img class="toprightimg" src="http://cdn.flaticon.com/png/256/25231.png"/>
 
 
-Throughout this course we'll use <strong>Git</strong> for version control, and <strong>Github</strong> as a platform for both collaboration and publication. LNU has a [good primer](https://coursepress.lnu.se/info/manual/kom-igang-med-github/) on Git, in Swedish.
+Throughout this course we'll use <strong>Git</strong> for version control, and <strong>Github</strong> as a platform for both collaboration and publication. LNU has a [good primer](https://coursepress.lnu.se/info/manual/kom-igang-med-github/) on Git, in Swedish. Also check out [this excellent interactive 15-minute tutorial](https://try.github.io/).
 
 For those of you who don't speak Swedish, here is a quick primer on the usage in the RIA course:
 
