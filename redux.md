@@ -9,9 +9,11 @@ While reading about React you might have come across the term "Flux" - Redux is 
 
 ###Redux in the course
 
-Along with React and React Router, Redux is a mandatory inclusion in your main course project. This means you must store your app state in a Redux store, and use Redux action creators to change that data. 
+~~Along with React and React Router, Redux is a mandatory inclusion in your main course project. This means you must store your app state in a Redux store, and use Redux action creators to change that data.~~
 
-You do not however have to hook up React Router to Redux, although [there are libraries to do that](https://github.com/rackt/redux-router) if you want to explore it.
+After some consideration, we have decided **not** to force you to try Redux. You are more than welcome to do so if you wish, and especially encouraged if you aim for the higher grades since Redux provides ample opportunity to show app organisation skills on that level.
+
+If you do use Redux you don't have to hook up React Router to Redux, although [there are libraries to do that](https://github.com/rackt/redux-router) if you want to explore it.
 
 Using [Redux-thunk](https://github.com/gaearon/redux-thunk) to be able to do async updates more easily is not mandatory, but recommended. It is used in the demo app.
 
