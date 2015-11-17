@@ -12,7 +12,7 @@ There is an excellent [getting started section](https://facebook.github.io/react
 
 To get started yourself we recommend the [course demo app](../demo-app). 
 
-Note that there might also be some React stuff in the snippets list on the [JavaScript resource page](../javascript)
+Note that there might also be some React snippets ~~in the snippets list on the [JavaScript resource page](../javascript)~~ on the [Guild deeds page](http://blog.krawaller.se/riaguild2015/#/actions/)!
 
 ###Using React in the course
 

@@ -11,8 +11,11 @@ The RIA course focuses mostly on best practices regarding code organisations whi
 
 ### JavaScript snippets
 
-This is a collection of small educational snippets that we create in the course. They are stored as shared files in our [Slack channel](../slack-channel), but since that only holds a finite number of entries we also publish them here. If you have created a JS-bin (or similar) snippet you want to share, [fork this document](https://github.com/krawaller/ria2015/blob/master/javascript.md) and make a PR!
+~~This is a collection of small educational snippets that we create in the course. They are stored as shared files in our [Slack channel](../slack-channel), but since that only holds a finite number of entries we also publish them here. If you have created a JS-bin (or similar) snippet you want to share, [fork this document](https://github.com/krawaller/ria2015/blob/master/javascript.md) and make a PR!
 
 *    [Understanding function context](https://jsbin.com/niwumu/edit?js,console)
 *    [Different syntaxes for defining a method](https://jsbin.com/cimoke/edit?js,console)
 *    [React component rendering depending on prop values](http://jsbin.com/vapomo/edit?js,output)
+~~
+
+Code snippets have now been promoted to a feature on the guild! Go to the [Deeds page](http://blog.krawaller.se/riaguild2015/#/actions/) to find them!
