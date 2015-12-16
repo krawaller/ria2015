@@ -34,3 +34,5 @@ Also check out this brilliant [explanation of Redux in comic format](https://cod
 [Andreas Fridlund](http://blog.krawaller.se/riaguild2015/#/member/afrxx09) (thank you!) pointed me to [this excellent tutorial](https://github.com/happypoulp/redux-tutorial) which step by step walks through the various Redux concepts. Warmly recommended!
 
 This [tiny JSBin example](https://jsbin.com/kaloqanise/1/edit?html,js,output) does a good job of capturing the essence of Redux.
+
+Finally [this video series on Egghead](https://egghead.io/series/getting-started-with-redux) by Dan Abramov is a really good learning resource.
